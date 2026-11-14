@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
 [![C++](https://img.shields.io/badge/C++-Pure_C_Style-purple.svg)]()
-[![Size](https://img.shields.io/badge/Size-77KB-success.svg)]()
+[![Size](https://img.shields.io/badge/Size-79KB-success.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 **MathSlide** 是一个基于纯 C 风格、C++ 与原生 Win32 API 编写的极简、超轻量级本地 HTML 演示器。
